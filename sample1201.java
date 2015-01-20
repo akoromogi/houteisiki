@@ -32,9 +32,6 @@ class houteisiki2d extends houteisiki1d {
 
 public class sample1201 {
 
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 	}
 
